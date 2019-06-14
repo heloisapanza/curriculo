@@ -1,0 +1,96 @@
+body{
+ margin: 5%;
+ background-image: url("../fundo.jpg"):
+}
+h1{
+font-size: 60px;
+color: 	#008B8B;
+text-align: center;
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+}
+h2{
+font-size: 30px;
+font-family: cursive, serif;
+color: #008B8B;
+text-align: justify;
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+
+}
+h3{
+font-size: 20px;
+font-family: tahoma;
+color: #20B2AA;
+text-align: justify;
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+}
+p{
+font-size: 18px;
+font-family: tahoma;
+color: black;
+text-align: justify;
+line-height: 20px;
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+
+}
+ol{
+font-size: 18px;
+font-family: tahoma;
+color: black;
+text-align: justify;
+
+}
+.subtitulo{
+font-size: 18px;
+font-style: bold; 
+font-family: tahoma;
+color: #5F9EA0;
+text-align: justify;
+font-weight: bolder;
+}	
+.lista{
+font-size: 18px;
+color: black;
+text-align: justify;
+
+}	
+
+.perfil{
+float: right;
+float: width;
+
+border-radius: 130px;
+margin-top: -2%;
+margin-right: 45px;
+width:200px;
+height:200px;
+}
+
+.helo{
+	background: white;
+		border-radius: 7px;
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+	
+}
+.curriculum{
+	background-color: white;
+	border-radius: 7px;
+	padding: 20px;
+			width: 70%;
+		margin-left: auto;
+		margin-right: auto;
+	
+}
